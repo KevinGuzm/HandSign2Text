@@ -1,0 +1,9 @@
+mediapipe
+opencv-python==4.6.0.66
+gradio
+gradio_webrtc
+joblib
+scikit-learn
+optuna
+numpy
+pandas
